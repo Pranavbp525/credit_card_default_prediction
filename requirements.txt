@@ -1,0 +1,16 @@
+# Core dependencies
+numpy                  # Numerical operations
+pandas                 # Data manipulation
+scikit-learn           # Machine learning algorithms
+
+# Model serving
+Flask                  # Web framework for serving models
+
+# Serialization
+joblib                 # Model saving and loading
+
+# Additional utilities
+requests               # HTTP requests
+
+# Monitoring
+prometheus_client      # Metrics and monitoring

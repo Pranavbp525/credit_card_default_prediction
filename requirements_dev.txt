@@ -1,0 +1,32 @@
+# Development and Testing
+black                  # Code formatting
+flake8                 # Linting
+isort                  # Import sorting
+mypy                   # Static type checking
+pytest                 # Testing framework
+pytest-cov             # Test coverage
+
+# Jupyter and Notebook Utilities
+jupyter                # Interactive notebooks
+
+# MLOps Tools
+mlflow                 # Experiment tracking
+dvc                    # Data version control
+
+# Workflow Orchestration
+apache-airflow         # Workflow automation and scheduling
+
+
+# Deployment
+gunicorn               # WSGI server for deployment
+docker                 # Docker for containerization
+
+# Documentation
+sphinx                 # Documentation generation
+
+# Data Visualization
+matplotlib             # Plotting library
+seaborn                # Statistical data visualization
+
+# Additional Utilities
+ipython                # Interactive Python
