@@ -30,3 +30,6 @@ seaborn                # Statistical data visualization
 
 # Additional Utilities
 ipython                # Interactive Python
+
+imblearn
+optuna
